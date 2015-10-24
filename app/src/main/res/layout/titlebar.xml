@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.hankkin.textviewdemo.view.TitleBarView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+
+    android:id="@+id/title_bar"
+    custom:titleText="标题1"
+    custom:titleTextSize="15sp"
+    custom:titleColor="#000"
+    custom:leftBtnText="返回"
+    custom:leftBtnTextSize="10sp"
+    custom:leftBtnBackground="#f8f8ff"
+    custom:rightBtnText="下一步"
+    custom:rightBtnTextSize="10sp"
+    custom:rightBtnBackground="#f8f8ff"
+    >
+
+</com.hankkin.textviewdemo.view.TitleBarView>
